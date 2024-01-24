@@ -17,6 +17,8 @@ class Product(models.Model):
     description = models.TextField()
     price = models.DecimalField(max_digits=10, decimal_places=2)
     count = models.IntegerField()
+    image_scr = models.CharField(
+        max_length=255, null=True)
 
     def __str__(self) -> str:
         return f'{self.title}, price: {self.price}, count: {self.count}'

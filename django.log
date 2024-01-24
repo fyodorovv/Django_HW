@@ -34,3 +34,36 @@ INFO 2024-01-23 01:46:38,015 basehttp 23696 32940 "GET /basket/3/ HTTP/1.1" 200 
 INFO 2024-01-23 01:46:49,438 basehttp 23696 32940 "GET /basket/4/ HTTP/1.1" 200 1287
 INFO 2024-01-23 01:46:53,105 basehttp 23696 32940 "GET /basket/5/ HTTP/1.1" 200 599
 INFO 2024-01-23 01:46:55,671 basehttp 23696 32940 "GET /basket/6/ HTTP/1.1" 200 1024
+INFO 2024-01-24 22:49:28,621 autoreload 19536 27728 Watching for file changes with StatReloader
+INFO 2024-01-24 22:49:32,113 basehttp 19536 3668 "GET / HTTP/1.1" 200 13
+WARNING 2024-01-24 22:49:32,478 log 19536 3668 Not Found: /favicon.ico
+WARNING 2024-01-24 22:49:32,478 basehttp 19536 3668 "GET /favicon.ico HTTP/1.1" 404 2900
+INFO 2024-01-24 22:49:35,980 basehttp 19536 3668 "GET /basket/1 HTTP/1.1" 301 0
+INFO 2024-01-24 22:49:36,031 basehttp 19536 12648 "GET /basket/1/ HTTP/1.1" 200 550
+INFO 2024-01-24 22:50:07,817 autoreload 19536 27728 C:\Users\vfyod\Desktop\gbr\django\homework\hw3\views.py changed, reloading.
+INFO 2024-01-24 22:50:08,470 autoreload 23748 4568 Watching for file changes with StatReloader
+INFO 2024-01-24 22:50:09,865 autoreload 23748 4568 C:\Users\vfyod\Desktop\gbr\django\homework\hw3\views.py changed, reloading.
+INFO 2024-01-24 22:50:10,483 autoreload 27792 18484 Watching for file changes with StatReloader
+INFO 2024-01-24 22:50:22,563 autoreload 27792 18484 C:\Users\vfyod\Desktop\gbr\django\homework\hw3\views.py changed, reloading.
+INFO 2024-01-24 22:50:23,201 autoreload 11580 18660 Watching for file changes with StatReloader
+INFO 2024-01-24 22:50:33,211 autoreload 11580 18660 C:\Users\vfyod\Desktop\gbr\django\homework\hw3\views.py changed, reloading.
+INFO 2024-01-25 02:21:11,047 autoreload 4984 11548 C:\Users\vfyod\Desktop\gbr\django\homework\hw4\views.py changed, reloading.
+INFO 2024-01-25 02:21:11,680 autoreload 3340 22808 Watching for file changes with StatReloader
+INFO 2024-01-25 02:21:13,345 autoreload 3340 22808 C:\Users\vfyod\Desktop\gbr\django\homework\hw4\views.py changed, reloading.
+INFO 2024-01-25 02:21:13,986 autoreload 27548 32532 Watching for file changes with StatReloader
+INFO 2024-01-25 02:21:18,468 autoreload 27548 32532 C:\Users\vfyod\Desktop\gbr\django\homework\hw4\views.py changed, reloading.
+INFO 2024-01-25 02:21:19,094 autoreload 31440 28600 Watching for file changes with StatReloader
+INFO 2024-01-25 02:21:21,783 autoreload 31440 28600 C:\Users\vfyod\Desktop\gbr\django\homework\hw4\views.py changed, reloading.
+INFO 2024-01-25 02:21:22,467 autoreload 15756 5608 Watching for file changes with StatReloader
+INFO 2024-01-25 02:21:28,272 autoreload 15756 5608 C:\Users\vfyod\Desktop\gbr\django\homework\hw4\views.py changed, reloading.
+INFO 2024-01-25 02:21:28,888 autoreload 26796 13452 Watching for file changes with StatReloader
+INFO 2024-01-25 02:21:30,538 autoreload 26796 13452 C:\Users\vfyod\Desktop\gbr\django\homework\hw4\views.py changed, reloading.
+INFO 2024-01-25 02:21:31,149 autoreload 25984 16144 Watching for file changes with StatReloader
+INFO 2024-01-25 02:21:35,947 autoreload 25984 16144 C:\Users\vfyod\Desktop\gbr\django\homework\hw4\views.py changed, reloading.
+INFO 2024-01-25 02:21:36,590 autoreload 28372 30040 Watching for file changes with StatReloader
+INFO 2024-01-25 02:21:38,253 autoreload 28372 30040 C:\Users\vfyod\Desktop\gbr\django\homework\hw4\views.py changed, reloading.
+INFO 2024-01-25 02:21:38,885 autoreload 30632 23556 Watching for file changes with StatReloader
+INFO 2024-01-25 02:21:46,894 autoreload 30632 23556 C:\Users\vfyod\Desktop\gbr\django\homework\hw4\views.py changed, reloading.
+INFO 2024-01-25 02:21:47,553 autoreload 10780 16624 Watching for file changes with StatReloader
+INFO 2024-01-25 02:21:49,194 autoreload 10780 16624 C:\Users\vfyod\Desktop\gbr\django\homework\hw4\views.py changed, reloading.
+INFO 2024-01-25 02:21:49,837 autoreload 24504 26208 Watching for file changes with StatReloader

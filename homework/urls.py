@@ -22,5 +22,5 @@ urlpatterns = [
     path('hw1/', include('hw1.urls')),
     path('', include('hw2.urls')),
     path('', include('hw3.urls')),
-
+    path('', include('hw4.urls')),
 ]
